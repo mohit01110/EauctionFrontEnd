@@ -1,0 +1,21 @@
+/* style.module.css */
+
+.vic {
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.white_btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.foto img {
+  width: 100%;
+  border-radius: 10px;
+}
